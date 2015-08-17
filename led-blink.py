@@ -10,7 +10,7 @@ led_choice = 0
 count = 0
 
 os.system('clear')
-print "Dieses Skrip wurde von Leopold Pöchinger erstellt."
+print "Dieses Skrip wurde von Leopold Poechinger erstellt."
 print "Welche LED soll blinken?"
 print "1: Rot? (Pin 7)"
 print "2: Gruen? (Pin 11)"
